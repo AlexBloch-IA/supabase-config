@@ -1,0 +1,13 @@
+README.md
+CHANGELOG.md
+LICENSE
+install.sh
+.gitignore
+.clawhubignore
+.github/
+.DS_Store
+__pycache__/
+*.pyc
+.selftest-body.json
+.env
+.env.*
